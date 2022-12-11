@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.adamkoch.bowling"},{"l":"com.adamkoch.bowling.exceptions"},{"l":"com.adamkoch.bowling.vos"}];updateSearchResults();
